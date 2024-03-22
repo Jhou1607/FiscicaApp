@@ -1,0 +1,17 @@
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\bin\Debug\net8.0-windows\FísicaApp2.0 - Top.exe
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\bin\Debug\net8.0-windows\FísicaApp2.0 - Top.deps.json
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\bin\Debug\net8.0-windows\FísicaApp2.0 - Top.runtimeconfig.json
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\bin\Debug\net8.0-windows\FísicaApp2.0 - Top.dll
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\bin\Debug\net8.0-windows\FísicaApp2.0 - Top.pdb
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\FísicaApp2._0___Top.Form1.resources
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\FísicaApp2.0 - Top.csproj.GenerateResource.cache
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\FísicaApp2.0 - Top.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\FísicaApp2.0 - Top.AssemblyInfoInputs.cache
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\FísicaApp2.0 - Top.AssemblyInfo.cs
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\FísicaApp2.0 - Top.csproj.CoreCompileInputs.cache
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\FísicaApp2.0 - Top.sourcelink.json
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\FísicaApp2.0 - Top.dll
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\refint\FísicaApp2.0 - Top.dll
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\FísicaApp2.0 - Top.pdb
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\FísicaApp2.0 - Top.genruntimeconfig.cache
+C:\Users\ra2357029\Downloads\LoginApp-master\FísicaApp2.0 - Top\obj\Debug\net8.0-windows\ref\FísicaApp2.0 - Top.dll
